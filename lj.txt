@@ -1,0 +1,2 @@
+vmess://ws+tls:aae67820-6d6b-4302-a31a-9ad94af0854b-0@hujygb6tfgv.herokuapp.com:443/?host=hujygb6tfgv.herokuapp.com&path=/aae67820-6d6b-4302-a31a-9ad94af0854b-vless&allowInsecure=true&tlsServerName=hujygb6tfgv.herokuapp.com#vmess@hujygb6tfgv.herokuapp.com:443
+trojan-go://aae67820-6d6b-4302-a31a-9ad94af0854b@hujygb6tfgv.herokuapp.com:443/?type=ws&sni=hujygb6tfgv.herokuapp.com&host=hujygb6tfgv.herokuapp.com&path=%2Faae67820-6d6b-4302-a31a-9ad94af0854b-trojan#trojan go
