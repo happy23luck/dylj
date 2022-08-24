@@ -1,2 +1,2 @@
-vmess://ws+tls:aae67820-6d6b-4302-a31a-9ad94af0854b-0@hujygb6tfgv.herokuapp.com:443/?host=hujygb6tfgv.herokuapp.com&path=/aae67820-6d6b-4302-a31a-9ad94af0854b-vless&allowInsecure=true&tlsServerName=hujygb6tfgv.herokuapp.com#vmess@hujygb6tfgv.herokuapp.com:443
-trojan-go://aae67820-6d6b-4302-a31a-9ad94af0854b@hujygb6tfgv.herokuapp.com:443/?type=ws&sni=hujygb6tfgv.herokuapp.com&host=hujygb6tfgv.herokuapp.com&path=%2Faae67820-6d6b-4302-a31a-9ad94af0854b-trojan#trojan go
+vmess://ws+tls:6d801ed4-1a97-4165-8bf8-3d3cc245b592-0@cdfrtghnbjio.herokuapp.com:443/?host=cdfrtghnbjio.herokuapp.com&path=/6d801ed4-1a97-4165-8bf8-3d3cc245b592-vmess&allowInsecure=true&tlsServerName=cdfrtghnbjio.herokuapp.com#vmess@cdfrtghnbjio.herokuapp.com:443
+trojan-go://6d801ed4-1a97-4165-8bf8-3d3cc245b592@cdfrtghnbjio.herokuapp.com:443/?type=ws&sni=cdfrtghnbjio.herokuapp.com&host=cdfrtghnbjio.herokuapp.com&path=%2F6d801ed4-1a97-4165-8bf8-3d3cc245b592-trojan#trojan-go@cdfrtghnbjio.herokuapp.com:443
